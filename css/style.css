@@ -98,10 +98,3 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background-color: #e6ffe6;
 }
-
-body,
-html {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
